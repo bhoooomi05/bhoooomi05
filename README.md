@@ -63,6 +63,12 @@ const bhoomi = {
 
 <br/>
 
+<div align="center">
+<img src="./dev-card.svg" alt="Developer card: Bhoomi builds responsive UI with HTML, CSS, JavaScript & React, full-stack APIs with Node.js, Flask & FastAPI, and AI/ML experiments with Python" width="100%">
+</div>
+
+<br/>
+
 ## 🚀 Featured Projects
 
 ### TraceNet — AI-Powered Misinformation Detection
@@ -127,11 +133,7 @@ Features: receipt OCR, expense categorization, financial dashboard, AI-assisted 
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./stack-orbit-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./stack-orbit-light.svg">
-  <img src="./stack-orbit-dark.svg" alt="Orbiting diagram of Bhoomi's core technologies: HTML, CSS, JavaScript, Python, React, Flask, Java, SQL" width="100%">
-</picture>
+<img src="./tech-orbit.svg" alt="Diagram of Bhoomi's core stack: Python, JavaScript, Java, React, HTML and Flask orbiting a central code icon, grouped by Frontend, Backend & APIs, AI/ML and Tools" width="100%">
 
 <br/><br/>
 
@@ -198,6 +200,8 @@ Features: receipt OCR, expense categorization, financial dashboard, AI-assisted 
 
 <div align="center">
 
+<sub>// DEVELOPER DASHBOARD — live, pulled straight from GitHub</sub>
+
 <img src="https://github-readme-stats.vercel.app/api?username=bhoooomi05&show_icons=true&theme=nord&hide_border=true&bg_color=0F172A&title_color=7DD3FC&text_color=C9D1D9&icon_color=7DD3FC" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoooomi05&layout=compact&theme=nord&hide_border=true&bg_color=0F172A&title_color=7DD3FC&text_color=C9D1D9" width="38%" />
 
@@ -214,6 +218,17 @@ Features: receipt OCR, expense categorization, financial dashboard, AI-assisted 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhoooomi05&theme=nord&bg_color=0F172A&color=7DD3FC&line=7DD3FC&point=C9D1D9&hide_border=true" width="90%" />
 
 </div>
+
+<br/>
+
+<h3 align="center">🏙️ My Contribution Skyline</h3>
+<p align="center"><sub>Every commit raises another tower — rebuilt automatically, every day.</sub></p>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/bhoooomi05/bhoooomi05/output/profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="3D contribution skyline" />
+</div>
+
+> **One-time setup:** this one needs a small GitHub Action running in this repo before it has data to draw. Add the included `profile-3d.yml` to `.github/workflows/` here, enable *Read and write permissions* under **Settings → Actions → General**, then run the workflow once from the **Actions** tab. It regenerates daily after that.
 
 <br/>
 
