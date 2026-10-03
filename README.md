@@ -75,7 +75,9 @@ A multimodal misinformation detection and tracking platform that analyzes text a
 | AI/ML      | Random Forest, Gradient Boosting, XGBoost  |
 | Approach   | Multi-modal (text + image) classification  |
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bhoooomi05&repo=TraceNet&theme=nord&hide_border=true&bg_color=0F172A&title_color=7DD3FC&text_color=C9D1D9&icon_color=7DD3FC" alt="TraceNet repo card" />
+[![TraceNet](https://github-readme-stats.vercel.app/api/pin/?username=bhoooomi05&repo=TraceNet&theme=nord&hide_border=true&bg_color=0F172A&title_color=7DD3FC&text_color=C9D1D9&icon_color=7DD3FC)](https://github.com/bhoooomi05/TraceNet)
+
+[![Code](https://img.shields.io/badge/Code-GitHub-0F172A?style=flat-square&logo=github&logoColor=7DD3FC)](https://github.com/bhoooomi05/TraceNet)
 
 ---
 
@@ -89,7 +91,9 @@ An end-to-end marketplace experience for Indian artisans to showcase and sell ha
 | Backend   | Node.js, SQLite        |
 | Feature   | AR product preview     |
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bhoooomi05&repo=KalaKriti&theme=nord&hide_border=true&bg_color=0F172A&title_color=7DD3FC&text_color=C9D1D9&icon_color=7DD3FC" alt="KalaKriti repo card" />
+[![KalaKriti](https://github-readme-stats.vercel.app/api/pin/?username=bhoooomi05&repo=KalaKriti&theme=nord&hide_border=true&bg_color=0F172A&title_color=7DD3FC&text_color=C9D1D9&icon_color=7DD3FC)](https://github.com/bhoooomi05/KalaKriti)
+
+[![Code](https://img.shields.io/badge/Code-GitHub-0F172A?style=flat-square&logo=github&logoColor=7DD3FC)](https://github.com/bhoooomi05/KalaKriti)
 
 ---
 
@@ -106,7 +110,9 @@ A full-stack personal finance platform that uses OCR and AI-assisted processing 
 
 Features: receipt OCR, expense categorization, financial dashboard, AI-assisted insights, voice expense entry, authentication, schedule management.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bhoooomi05&repo=Corderz&theme=nord&hide_border=true&bg_color=0F172A&title_color=7DD3FC&text_color=C9D1D9&icon_color=7DD3FC" alt="Corderz repo card" />
+[![Corderz](https://github-readme-stats.vercel.app/api/pin/?username=bhoooomi05&repo=Corderz&theme=nord&hide_border=true&bg_color=0F172A&title_color=7DD3FC&text_color=C9D1D9&icon_color=7DD3FC)](https://github.com/bhoooomi05/Corderz)
+
+[![Code](https://img.shields.io/badge/Code-GitHub-0F172A?style=flat-square&logo=github&logoColor=7DD3FC)](https://github.com/bhoooomi05/Corderz)
 
 <br/>
 
@@ -123,27 +129,43 @@ Features: receipt OCR, expense categorization, financial dashboard, AI-assisted 
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=c,java,js,python,html,css&theme=dark" /> `SQL`
+[![C](https://img.shields.io/badge/C-0F172A?style=for-the-badge&logo=c&logoColor=7DD3FC)](https://devdocs.io/c/)
+[![Java](https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=7DD3FC)](https://www.java.com)
+[![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=7DD3FC)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=7DD3FC)](https://www.python.org)
+[![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=7DD3FC)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=7DD3FC)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![SQL](https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=7DD3FC)](https://www.w3schools.com/sql/)
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+[![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=7DD3FC)](https://react.dev)
 
 **Backend & APIs**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark" />
+[![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=7DD3FC)](https://nodejs.org)
+[![Express](https://img.shields.io/badge/Express-0F172A?style=for-the-badge&logo=express&logoColor=7DD3FC)](https://expressjs.com)
+[![Flask](https://img.shields.io/badge/Flask-0F172A?style=for-the-badge&logo=flask&logoColor=7DD3FC)](https://flask.palletsprojects.com)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=7DD3FC)](https://fastapi.tiangolo.com)
 
 **Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+[![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=7DD3FC)](https://www.mysql.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=7DD3FC)](https://www.mongodb.com)
 
 **AI / ML**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,opencv&theme=dark" /> `Machine Learning` · `Deep Learning` · `NLP` · `Generative AI`
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=7DD3FC)](https://en.wikipedia.org/wiki/Machine_learning)
+[![Deep Learning](https://img.shields.io/badge/Deep_Learning-0F172A?style=for-the-badge&logo=tensorflow&logoColor=7DD3FC)](https://en.wikipedia.org/wiki/Deep_learning)
+[![Computer Vision](https://img.shields.io/badge/Computer_Vision-0F172A?style=for-the-badge&logo=opencv&logoColor=7DD3FC)](https://opencv.org)
+[![NLP](https://img.shields.io/badge/NLP-0F172A?style=for-the-badge&logo=openai&logoColor=7DD3FC)](https://en.wikipedia.org/wiki/Natural_language_processing)
+[![Generative AI](https://img.shields.io/badge/Generative_AI-0F172A?style=for-the-badge&logo=googlegemini&logoColor=7DD3FC)](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)
 
 **Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+[![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=7DD3FC)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=7DD3FC)](https://github.com)
+[![VS Code](https://img.shields.io/badge/VS_Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=7DD3FC)](https://code.visualstudio.com)
 
 </div>
 
