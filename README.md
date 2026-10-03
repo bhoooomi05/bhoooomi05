@@ -127,6 +127,14 @@ Features: receipt OCR, expense categorization, financial dashboard, AI-assisted 
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./stack-orbit-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./stack-orbit-light.svg">
+  <img src="./stack-orbit-dark.svg" alt="Orbiting diagram of Bhoomi's core technologies: HTML, CSS, JavaScript, Python, React, Flask, Java, SQL" width="100%">
+</picture>
+
+<br/><br/>
+
 **Languages**
 <br/>
 [![C](https://img.shields.io/badge/C-0F172A?style=for-the-badge&logo=c&logoColor=7DD3FC)](https://devdocs.io/c/)
